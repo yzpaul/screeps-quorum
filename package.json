@@ -21,7 +21,6 @@
     "ci-config": "gulp ci-config",
     "2npm": "npm publish"
   },
-  "dependencies": {},
   "devDependencies": {
     "ava": "^3.5.0",
     "del": "^5.1.0",

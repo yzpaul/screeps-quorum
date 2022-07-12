@@ -40,7 +40,7 @@ gulp.task('copy', gulp.series('clean', () => {
 }))
 
 function deploy () {
-  const config = require('./.screeps.json')
+  const config = require('./screeps.json')
   const opts = config[args.server || 'main']
   const options = {}
   if (!opts) {

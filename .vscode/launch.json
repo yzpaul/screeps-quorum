@@ -1,0 +1,8 @@
+{
+    "label": "deploy main world",
+    "type": "shell",
+    "group": "build",
+    "command": "gulp",
+    "problemMatcher": [],
+    "dependsOn": []
+  }

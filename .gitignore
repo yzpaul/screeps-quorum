@@ -66,3 +66,5 @@ typings/
 
 # for Visual Studio users
 /.vs
+
+screeps.json
